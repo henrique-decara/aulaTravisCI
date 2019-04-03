@@ -1,4 +1,4 @@
 # aulaTravisCI
 aula de DevOps sobre TravisCI
 
-Henrique de Cara Oliveira
+Henrique de Cara Oliveiro
